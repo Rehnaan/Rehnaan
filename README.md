@@ -35,42 +35,6 @@
 ✨ Working on exciting projects!
 
 ---
-<h2 align="center">💻 Developer Mode</h2>
-
-```bash
-> booting system...
-
-> loading modules ██████████ 100%
-> initializing environment...
-> starting developer mode...
-
-> status: active 🚀
-
---------------------------------------
-
-while (true) {
-  learn();
-  build();
-  breakThings();
-  fixThings();
-  repeat();
-}
-
---------------------------------------
-
-def mindset():
-    return "Stay consistent. Keep improving."
-
-print(mindset())
-
---------------------------------------
-
-> compiling ideas...
-> pushing commits...
-> upgrading skills...
-
-> system running ✔
-```
 <p align="center">
   <a href="mailto:rehnanoushad744@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
