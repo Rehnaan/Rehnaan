@@ -35,32 +35,48 @@
 ✨ Working on exciting projects!
 
 ---
-
-<h2 align="center">💻 Developer Terminal</h2>
+<h2 align="center">💻 Developer Mode</h2>
 
 ```bash
-rehna@github:~$ whoami
-Rehna Noushad
+> booting system...
 
-rehna@github:~$ role
-Aspiring Software Developer
+> loading modules ██████████ 100%
+> initializing environment...
+> starting developer mode...
 
-rehna@github:~$ education
-BTech 3rd Year Student
+> status: active 🚀
+```
 
-rehna@github:~$ skills
-Java | Python | HTML | CSS | JavaScript
+---
 
-rehna@github:~$ currently_doing
-Learning... Building Projects... 🚀
+```javascript
+while (true) {
+  learn();
+  build();
+  breakThings();
+  fixThings();
+  repeat();
+}
+```
 
-rehna@github:~$ contact
-Email: rehnanoushad744@gmail.com
-LinkedIn: https://in.linkedin.com/in/rehna-noushad-9a970a326
-Instagram: https://www.instagram.com/rehn.axx
+---
 
-rehna@github:~$ motto
-"Always learning, always building"
+```python
+def mindset():
+    return "Stay consistent. Keep improving."
+
+print(mindset())
+```
+
+---
+
+```bash
+> compiling ideas...
+> pushing commits...
+> upgrading skills...
+
+> system running ✔
+```
 
 <p align="center">
   <a href="mailto:rehnanoushad744@gmail.com">
