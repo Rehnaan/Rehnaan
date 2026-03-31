@@ -45,11 +45,9 @@
 > starting developer mode...
 
 > status: active 🚀
-```
 
----
+--------------------------------------
 
-```javascript
 while (true) {
   learn();
   build();
@@ -57,27 +55,22 @@ while (true) {
   fixThings();
   repeat();
 }
-```
 
----
+--------------------------------------
 
-```python
 def mindset():
     return "Stay consistent. Keep improving."
 
 print(mindset())
-```
 
----
+--------------------------------------
 
-```bash
 > compiling ideas...
 > pushing commits...
 > upgrading skills...
 
 > system running ✔
 ```
-
 <p align="center">
   <a href="mailto:rehnanoushad744@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
