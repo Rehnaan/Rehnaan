@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Rehna Noushad</h1>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/rehnaan/rehnaan/main/profile.png" width="250"/>
 </p>
-# 👋 Hi, I'm Rehna Noushad
 
 <p align="center">
   💻 Aspiring Software Developer | 🌐 Frontend Developer | 🎓 BTech Student
