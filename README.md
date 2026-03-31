@@ -59,6 +59,9 @@
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/rehnaan/rehnaan/blob/output/github-contribution-grid-snake.svg)
 
 ## ✨ Quote
 _"Always learning, always building."_ 🚀
