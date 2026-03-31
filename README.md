@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/rehnaan/rehnaan/blob/main/a_digital_illustration_in_a_cartoon_style_features.png" width="250"/>
+</p>
 # 👋 Hi, I'm Rehna Noushad
 
 <p align="center">
