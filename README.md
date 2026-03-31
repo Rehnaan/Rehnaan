@@ -36,13 +36,31 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+<h2 align="center">💻 Developer Terminal</h2>
+
+```bash
+rehna@github:~$ whoami
+Rehna Noushad
+
+rehna@github:~$ role
+Aspiring Software Developer
+
+rehna@github:~$ education
+BTech 3rd Year Student
+
+rehna@github:~$ skills
+Java | Python | HTML | CSS | JavaScript
+
+rehna@github:~$ currently_doing
+Learning... Building Projects... 🚀
+
+rehna@github:~$ contact
+Email: rehnanoushad744@gmail.com
+LinkedIn: https://in.linkedin.com/in/rehna-noushad-9a970a326
+Instagram: https://www.instagram.com/rehn.axx
+
+rehna@github:~$ motto
+"Always learning, always building"
 
 <p align="center">
   <a href="mailto:rehnanoushad744@gmail.com">
