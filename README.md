@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/rehnaan/rehnaan/main/profile.png" width="250"/>
 </p>
+<p align="center">
+  <a href="https://portfolio-kappa-livid-87.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Live%20Now-5b4fcf?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   💻 Aspiring Software Developer | 🌐 Frontend Developer | 🎓 BTech Student
